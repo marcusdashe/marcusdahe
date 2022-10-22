@@ -1,4 +1,4 @@
-# marcusdahe
+# marcusdashe
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100"/>
@@ -14,9 +14,7 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/fsKSe2ykELgrsXdE2S/giphy.gif" width="600" height="300"/>
-</div>
+
 ---
 ## :man_technologist: About Me:
 I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
